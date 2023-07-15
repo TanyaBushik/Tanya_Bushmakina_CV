@@ -436,3 +436,22 @@ body {
   list-style: none;
   padding-left: 0px;
 }
+
+.github a:hover {
+  background: #191919;
+  color: #fff;
+}
+.facebook a:hover {
+  background: #3b5998;
+  color: #fff;
+}
+
+.linkedin a:hover {
+  background: #0e76a8;
+  color: #fff;
+}
+
+.telegram a:hover {
+  background: #249bd7;
+  color: #fff;
+}
