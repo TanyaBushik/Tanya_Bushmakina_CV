@@ -55,7 +55,6 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  width: 440px;
 }
 
 /* projects styles */
@@ -114,14 +113,6 @@ body {
 }
 
 /* work styles */
-
-.work {
-  /* padding: 100px 40px 50px 20px;
-
-    padding: 100px;
-
-    padding: 100px 50px; */
-}
 
 .work_position {
   font-style: normal;
